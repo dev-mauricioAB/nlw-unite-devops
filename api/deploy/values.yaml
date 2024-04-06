@@ -2,7 +2,7 @@ replicaCount: 5
 image:
   repository: mauricioab/nlw.service.passin
   pullPolicy: Always
-  tag: eacbc40
+  tag: d3de523
   port: 3333
 imagePullSecrets: []
 nameOverride: ''
