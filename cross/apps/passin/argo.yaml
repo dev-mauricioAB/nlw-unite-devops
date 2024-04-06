@@ -10,7 +10,7 @@ spec:
   source:
    repoURL: https://github.com/dev-mauricioAB/nlw-unite-devops.git
    targetRevision: HEAD
-   path: k8s
+   path: deploy
   destination:
    server: https://kubernetes.default.svc
   syncPolicy:
